@@ -1,4 +1,4 @@
-# <p style="color:#FF0000";> bonjour et bienvenue sur mon Github !
+#  bonjour et bienvenue sur mon Github !
 <img height="170px" alt="GIF" src="https://thumbs.gfycat.com/ComplexUnderstatedGuanaco-size_restricted.gif" />
 
 
