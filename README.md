@@ -15,9 +15,3 @@
 𝘐𝘤𝘪 𝘷𝘰𝘶𝘴 𝘳𝘦𝘵𝘳𝘰𝘶𝘷𝘦𝘳 𝘮𝘰𝘯 𝘱𝘢𝘳𝘤𝘰𝘶𝘳𝘴 𝘦𝘯 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘢𝘵𝘪𝘰𝘯 𝘏𝘛𝘔𝘓 / 𝘊𝘚𝘚 / 𝘠𝘈𝘔𝘓 / 𝘗𝘏𝘗 /
 <h2></h2>
 <h2> 𝘑𝘦 𝘷𝘰𝘶𝘴 𝘴𝘰𝘶𝘩𝘢𝘪𝘵𝘦 𝘶𝘯𝘦 𝘣𝘰𝘯𝘯𝘦 𝘭𝘦𝘤𝘵𝘶𝘳𝘦 📔 </h2>
-
-<p float="left">
-
-<a href="https://www.youtube.com/channel/UCsWUThd4cMJY3OXT8depQTw" title="Redirect to YouTube">
-    <img src="/assets/youtube.png" width="120" alt="YouTube" />
-  </a>
